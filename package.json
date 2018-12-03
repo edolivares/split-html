@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/punkave/split-html",
   "dependencies": {
-    "cheerio": "^0.17.0"
+    "cheerio": "^1.0.0-rc.2"
   }
 }
